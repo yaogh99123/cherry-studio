@@ -426,6 +426,7 @@
   },
   "pnpm": {
     "overrides": {
+      "xlsx": "npm:@e965/xlsx@0.20.3",
       "basic-ftp": ">=5.2.0",
       "fast-xml-parser": ">=5.3.6",
       "minimatch@<3.1.3": "3.1.5",
